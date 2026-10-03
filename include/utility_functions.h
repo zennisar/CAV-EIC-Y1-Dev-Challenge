@@ -6,7 +6,7 @@
 #include <limits>
 #include <algorithm>
 #include <cmath>
-
+#include <numeric>
 using Coord = std::pair<int, int>;
 using MapTemplate = std::vector<std::vector<int> >;
 
